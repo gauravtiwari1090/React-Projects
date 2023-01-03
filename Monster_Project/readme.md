@@ -1,1 +1,7 @@
-monster project here
+- THIS IS THE MONSTER PROJECT MADE USING REACT JS
+- FUN PROJECT
+-USED ROBO HASH WEBSITE FOR IMAGES
+- JSON PLACEHOLDER API 
+-LINK - https://monstergaurav.vercel.app/
+
+
