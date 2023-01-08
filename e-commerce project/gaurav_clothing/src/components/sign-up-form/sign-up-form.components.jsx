@@ -18,6 +18,8 @@ const SignUpForm = () => {
   const { displayName, email, password, confirmPassword } = formFeilds;
 
 
+
+
   const resetFormFields=()=>{
     setFormFeilds(defaultFormFeilds)
   }
@@ -36,6 +38,8 @@ const SignUpForm = () => {
         email,
         password
       );
+
+      
 
       await createUserDocumentFromAuth(user, { displayName });
       resetFormFields();
